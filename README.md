@@ -126,7 +126,7 @@
 <a href="https://twitter.com/https://twitter.com/Its_VirU_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ttps://www.linkedin.com/in/hrithik-gowda-s-a64657172" target="_blank">
+<a href="https://www.linkedin.com/in/hrithik-gowda-s-a64657172/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://m.facebook.com/100012423451770/" target="_blank">
@@ -168,4 +168,4 @@
 <br />
 
 ----
-<div align="center">Made with love <a href="#" target="_blank"> byHrithik</a></div>
+<div align="center">Made with love by <a href="#" target="_blank">  Hrithik</a></div>
