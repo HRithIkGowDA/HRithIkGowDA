@@ -1,5 +1,5 @@
 
-### Thanks for Visitingw
+### Thanks for Visiting
 <div align="center">
 
 </div>  
